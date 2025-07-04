@@ -59,6 +59,22 @@ DeepFashionSearch/
 ├── requirements.txt        # Project dependencies
 └── README.md               # Project description and instructions
 ```
+## 🖼️ Demo Screenshots
+
+Below are a few examples of how DeepFashionSearch works for different fashion items.
+
+### 👖 Jeans
+![Jeans Demo](demo/jeans.jpg)
+
+### 👗 Saree
+![Saree Demo](demo/saree.jpg)
+
+### 👕 Shirt
+![Shirt Demo](demo/shirt.jpg)
+
+### 👟 Sneaker
+![Sneaker Demo](demo/sneaker.jpg)
+
 
 ## License
 

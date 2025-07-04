@@ -48,15 +48,17 @@ pip install -r requirements.txt
 
 streamlit run app.py
 
-## Project Structure
+## 📁 Project Structure
 
+```
 DeepFashionSearch/
-├── app.py
-├── embeddings.pkl
-├── filenames.pkl
-├── images/
-├── requirements.txt
-└── README.md
+├── app.py                  # Streamlit app (handles upload, feature extraction, search)
+├── embeddings.pkl          # Saved feature vectors of dataset images
+├── filenames.pkl           # Corresponding image file paths
+├── images/                 # Folder containing all fashion images (44K+ dataset)
+├── requirements.txt        # Project dependencies
+└── README.md               # Project description and instructions
+```
 
 ## License
 

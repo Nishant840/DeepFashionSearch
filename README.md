@@ -90,5 +90,4 @@ MIT License.
 
 Nishant Kumar  
 IIIT Bhopal • SDE/ML Enthusiast  
-nishant7896545@gmail.com 
 https://github.com/Nishant840
